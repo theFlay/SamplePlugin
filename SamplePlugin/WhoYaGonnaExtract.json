@@ -1,0 +1,13 @@
+{
+    "Author": "Flay",
+    "Name": "WhoYaGonnaExtract",
+    "Punchline": "Auto Extracts Materia",
+    "Description": "/xlMateria for settings. This mod will allow show you what gear neesd to be extracted. Can be set to auto with /xlExtractor",
+    "InternalName": "WhoYaGonnaExtract",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "sample",
+        "plugin",
+        "goats"
+    ]
+}
